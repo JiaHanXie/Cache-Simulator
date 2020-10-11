@@ -14,3 +14,5 @@
 
 	3. finish
 	- exit
+![Alt text](./UGTP_Page_1.jpg)
+![Alt text](./UGTP_Page_2.jpg)
