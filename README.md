@@ -3,12 +3,14 @@
 - H1: 73
 - H2: 60
 - TXT command:
-	* faulty block 
+	1. faulty block 
 	- ex:
 	- F 2 0
 	- F 7 1
-	* clock 和 address
+
+	2. clock and address	
 	- ex:
 	- C 1 45
-	* finish
+
+	3. finish
 	- exit
